@@ -1,1 +1,2 @@
-# Bootstrap-website-thingy
+# Bootstrap-Empowered-Raspberry-
+Bootstrap website project
